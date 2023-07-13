@@ -2,7 +2,7 @@
 
 $id = $_GET['id'];
 
-include '../apiUrl.php';
+include '../src/apiUrl.php';
 
 // cURLセッションを初期化
 $ch = curl_init();
@@ -22,7 +22,7 @@ curl_close($ch);
 
 ?>
 
-<?php include '../head.php'; ?>
+<?php include '../src/head.php'; ?>
 
 <body>
 
@@ -205,4 +205,4 @@ curl_close($ch);
   }
 </style>
 
-<?php include '../foot.php'; ?>
+<?php include '../src/foot.php'; ?>
