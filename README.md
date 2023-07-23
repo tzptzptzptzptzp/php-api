@@ -1,4 +1,4 @@
-[![PHP API](http://tzp.pink/php/ss.jpg)](https://tzp.pink/php/)
+[![PHP API](http://tzp.pink/php/src/ss.jpg)](https://tzp.pink/php/)
 
 ## 紹介
 
