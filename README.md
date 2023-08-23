@@ -17,3 +17,21 @@ API は各エンドポイント毎に CRUD の処理に対応しています。
 ## 開発手順
 
 MAMP を使用しています
+
+---
+
+## Introduction
+
+I have created a simple API using PHP. The front page interacts with the API to retrieve information. The API supports CRUD operations for each endpoint.
+
+- [Front Page](https://tzp.pink/php/)
+- [API](https://tzp.pink/php/api/)
+
+## Technologies Used
+
+- [PHP](https://www.php.net/)
+- [JavaScript](https://developer.mozilla.org/ja/docs/Web/JavaScript)
+
+## Development Process
+
+I am using MAMP for development.
